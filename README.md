@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak trivedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-trivedi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak-trivedi" alt="vinayak-trivedi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@_vnayak_" target="blank"><img src="https://img.shields.io/twitter/follow/@_vnayak_?logo=twitter&style=for-the-badge" alt="@_vnayak_" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Java, React, React Native, NodeJs**
