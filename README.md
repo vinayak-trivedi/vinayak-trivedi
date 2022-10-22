@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak trivedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/@_vnayak_" target="blank"><img src="https://img.shields.io/twitter/follow/@_vnayak_?logo=twitter&style=for-the-badge" alt="@_vnayak_" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, Java, React, React Native, NodeJs**
 
 - 📫 How to reach me **trivedivinayak57@gmail.com**
