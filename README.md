@@ -16,7 +16,4 @@
 
 ## My Top Languages
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&username=vinayak-trivedi)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak-trivedi&show_icons=true&locale=en" alt="vinayak-trivedi" /></p>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vinayak-trivedi&layout=compact&theme=dark)
